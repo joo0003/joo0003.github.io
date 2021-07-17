@@ -28,9 +28,9 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Runs maven --version
-      - name: Run maven --version
-        run: maven --version
+      # Runs mvn --version
+      - name: Run mvn --version
+        run: mvn --version
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
