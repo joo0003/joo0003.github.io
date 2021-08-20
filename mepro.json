@@ -2,37 +2,27 @@
   {
     "uid": "",
     "intentName": "LaunchRequest",
-    "speechText": "",
-    "cardTitle": "",
-    "cardText": ""
+    "speechText": ""
   },
   {
     "uid": "",
     "intentName": "AMAZON.FallbackIntent",
-    "speechText": "",
-    "cardTitle": "",
-    "cardText": ""
+    "speechText": ""
   },
   {
     "uid": "",
     "intentName": "AMAZON.HelpIntent",
-    "speechText": "",
-    "cardTitle": "",
-    "cardText": ""
+    "speechText": ""
   },
   {
     "uid": "",
     "intentName": "AMAZON.StopIntent",
-    "speechText": "",
-    "cardTitle": "",
-    "cardText": ""
+    "speechText": ""
   },
   {
     "uid": "",
     "intentName": "AMAZON.NavigateHomeIntent",
-    "speechText": "",
-    "cardTitle": "",
-    "cardText": ""
+    "speechText": ""
   },
   {
     "uid": "",
