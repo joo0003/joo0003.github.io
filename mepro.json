@@ -8,13 +8,6 @@
   },
   {
     "uid": "",
-    "intentName": "AMAZON.CancelIntent",
-    "speechText": "",
-    "cardTitle": "",
-    "cardText": ""
-  },
-  {
-    "uid": "",
     "intentName": "AMAZON.FallbackIntent",
     "speechText": "",
     "cardTitle": "",
