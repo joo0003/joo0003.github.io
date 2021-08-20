@@ -21,11 +21,6 @@
   },
   {
     "uid": "",
-    "intentName": "AMAZON.NavigateHomeIntent",
-    "speechText": ""
-  },
-  {
-    "uid": "",
     "intentName": "",
     "speechText": "",
     "cardTitle": "",
