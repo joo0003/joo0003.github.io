@@ -1,7 +1,7 @@
 [
   {
     "uid": "",
-    "intentName": "LaunchRequest",
+    "intentName": "AMAZON.LaunchRequest",
     "speechText": ""
   },
   {
